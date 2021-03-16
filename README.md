@@ -1,7 +1,7 @@
 ## Landing Page
 
 
-## Discription
+## Description
 it's a tutrial project contains a page with navigation bar that build dynamically with javascript accordding to sections count and gets its decorations with CSS.
 
 ## Instructions
